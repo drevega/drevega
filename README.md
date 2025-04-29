@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @drevega
+**👋 Hi, I’m Andrea (Dre) Vega @drevega**
 - ✨ Previous Auto body shop manager 
 - 💞️ I’m looking forward to becoming a fullstack softwate engineer!
 - 🌱 I’m currently learning JavaScript
@@ -9,7 +9,7 @@
 - 💬 Currently in the TripleTen Ambassador Team 🌟
 - 📫 I update my SWE journey often: check out my TikTok @itsdrevega
 - 
-As I am currently in the process of becoming a SWE, I am still learning and I will keep updating my prile and README.md.
+_As I am currently in the process of becoming a SWE, I am still learning and I will keep updating my prile and README.md._
 
 Thank you so much!
 ~Dre
