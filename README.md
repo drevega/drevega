@@ -7,7 +7,7 @@
 - 🥅 Goals: find the perfect, creative job as a SWE
 - 💙 Enrolled in TripleTen Bootcamp
 - 💬 Currently in the TripleTen Ambassador Team 🌟
-- 📫 I update my SWE journey often: check out my TikTok [@itsdrevega](https://www.tiktok.com/@itsdrevega?is_from_webapp=1&sender_device=pc)
+- 📫
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
