@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **andreavegavalencia@gmail.com**
 
-**As I am currently in the process of becoming a SWE, I am still learning and I will keep updating my prile and README.md.**
+**As I am currently in the process of becoming a SWE, I am still learning and I will keep updating my profile and README.md.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
