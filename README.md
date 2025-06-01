@@ -10,7 +10,6 @@
 - 💞️ Looking forward to becoming a fullstack softwate engineer!
 - 🌱 I’m currently learning **Javascript**
 
-- 📫 How to reach me **andreavegavalencia@gmail.com**
 
 **As I am currently in the process of becoming a SWE, I am still learning and I will keep updating my profile and README.md.**
 
