@@ -3,7 +3,7 @@
 
 - ✨ Previous Auto body shop manager
 - 👯 Learning something new everyday.. 
-- 💙 Enrolled at TripleTen Bootcamp
+- 💙 Enrolled in TripleTen's Full-Stack Software Engineer Bootcamp
 - 💬 Currently in the TripleTen Ambassador Team 🌟
 - 🥅 Goals: to find a great, creative job as a SWE
 - 👀 I’m interested in meeting new people in the tech field 🤝
