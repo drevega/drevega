@@ -16,6 +16,7 @@
 - 👯 I’m interested in meeting new people in the tech field 🤝
 - 💞️ Looking forward to becoming a fullstack software engineer!
 - 🌱 I’m currently learning **Javascript and React**
+- 🌱 Front-End - Tackled! On Back-End now :)
 
 
 **As I am currently in the process of becoming a SWE, I am still learning and I will keep updating my profile and README.md.**
