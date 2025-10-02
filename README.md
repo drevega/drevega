@@ -5,22 +5,21 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=drevega&label=Profile%20views&color=0e75b6&style=flat" alt="drevega" /> </p> --> 
 
-<h3 align="center">Aspiring Full-Stack Software Engineer</h3>
+<h3 align="center">Junior Full-Stack Software Engineer</h3>
 
 <p align="center">Let's connect, share ideas and be friends! Teach me your language, I'll teach you mine :D</p>
 
 <p align="center">- ✨ Previous Auto body shop manager
 - 🍀 Learning something new everyday.. 
-- 💙 Enrolled in TripleTen's Full-Stack Software Engineer Bootcamp (almost done with it!) 
+- 💙 Enrolled in TripleTen's Full-Stack Software Engineer Bootcamp (done with it!) 
 - 💬 Currently in the TripleTen Ambassador Team 🌟
 - 🥅 Goals: to find a great, creative job as a SWE
 - 👯 I’m interested in meeting new people in the tech field 🤝
 - 💞️ Looking forward to becoming a fullstack software engineer!
-- 🌱 I’m currently learning **Javascript and React**
-- 🌱 Front-End - Tackled! On Back-End now :)</p>
+- 🌱 Front-End and back-end tackled! :) ~ ready to keep learning
 
 
-<p align="center">As I am currently in the process of becoming a SWE, I am still learning and I will keep updating my profile and README.md.</p>
+<p align="center">As I am still new to this, I am keeping my mind open to new knowledge, tips and tricks. I will keep updating my profile and README.md.</p> 
 
 
 ![212284100-561aa473-3905-4a80-b561-0d28506553ee](https://github.com/user-attachments/assets/9eab5fbf-5236-4311-b785-1caea579f67a)
